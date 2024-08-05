@@ -18,5 +18,5 @@ This project allows for extensive customization to suit different branding and d
 - **Materials**: Change the type of glass, metal, and other materials to achieve different looks and finishes.
 - **Colors**: Customize the colors of the bottle, cap, and other elements to fit various styles.
 - 
-You can view a 3D preview of the cabin model and donwload:
+You can view a 3D preview of the model and donwload on:
 [![Sketechfab](https://img.shields.io/badge/Sketchfab-blue)](https://sketchfab.com/thepolygonic) 
